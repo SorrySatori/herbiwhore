@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "918927795039",
+    "project_id": "herbiwhore-app",
+    "storage_bucket": "herbiwhore-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:918927795039:android:1fd0fbfe6fc2847173ccea",
+        "android_client_info": {
+          "package_name": "com.example.herbiwhore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "918927795039-p74p5i55lgrbotr8ba49ictj1ji3jpeo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2oX7bPm-JL6XHsk-7_QMmvvQn_2tqRBk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "918927795039-p74p5i55lgrbotr8ba49ictj1ji3jpeo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
