@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/prehled"
+        android:title="@string/p_ehled_aktivit"
+        android:icon="@drawable/kotlin"
+        />
+
+    <item
+        android:id="@+id/encyklopedie"
+        android:title="@string/encyklopedie_bylinek"
+        android:icon="@drawable/kotlin"
+        />
+
+    <item
+        android:id="@+id/kalendar"
+        android:title="@string/kalend"
+        android:icon="@drawable/kotlin"
+        />
+    <item
+        android:id="@+id/mapa"
+        android:title="@string/mapa"
+        android:icon="@drawable/kotlin"
+        />
+
+</menu>

@@ -10,7 +10,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Herbiwhore">
         <activity
-            android:name=".ChatActivity"
+            android:name=".LandingActivity"
             android:exported="true" />
         <activity
             android:name=".LoginActivity"

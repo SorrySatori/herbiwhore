@@ -2,12 +2,10 @@ package com.example.herbiwhore
 
 import android.content.Intent
 import android.os.Bundle
-import android.util.Log
 import android.view.View
 import android.widget.EditText
 import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
-import com.example.herbiwhore.R
 import com.google.firebase.auth.FirebaseAuth
 
 class RegistrationActivity : AppCompatActivity() {
@@ -30,7 +28,7 @@ class RegistrationActivity : AppCompatActivity() {
             .addOnCompleteListener { task ->
                 if (task.isSuccessful) {
                     Toast.makeText(this, "Registration Successful", Toast.LENGTH_SHORT).show()
-                    startActivity(Intent(this, ChatActivity::class.java))
+                    startActivity(Intent(this, LandingActivity::class.java))
                 } else {
                     Toast.makeText(this, "An error occurred", Toast.LENGTH_SHORT).show()
                 }

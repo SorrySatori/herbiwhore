@@ -3,9 +3,15 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/antos/AndroidStudioProjects/Herbiwhore2/app/src/main/res/drawable/kotlin.xml" value="0.15989583333333332" />
+        <entry key="..\:/Users/antos/AndroidStudioProjects/Herbiwhore2/app/src/main/res/layout/activity_chat.xml" value="0.19610507246376813" />
         <entry key="..\:/Users/antos/AndroidStudioProjects/Herbiwhore2/app/src/main/res/layout/activity_login.xml" value="0.13360507246376813" />
-        <entry key="..\:/Users/antos/AndroidStudioProjects/Herbiwhore2/app/src/main/res/layout/activity_main.xml" value="0.13360507246376813" />
+        <entry key="..\:/Users/antos/AndroidStudioProjects/Herbiwhore2/app/src/main/res/layout/activity_main.xml" value="0.20199275362318841" />
         <entry key="..\:/Users/antos/AndroidStudioProjects/Herbiwhore2/app/src/main/res/layout/activity_registration.xml" value="0.1" />
+        <entry key="..\:/Users/antos/AndroidStudioProjects/Herbiwhore2/app/src/main/res/layout/calendar.xml" value="0.14375" />
+        <entry key="..\:/Users/antos/AndroidStudioProjects/Herbiwhore2/app/src/main/res/layout/encyklopedie.xml" value="0.14375" />
+        <entry key="..\:/Users/antos/AndroidStudioProjects/Herbiwhore2/app/src/main/res/layout/map.xml" value="0.14375" />
+        <entry key="..\:/Users/antos/AndroidStudioProjects/Herbiwhore2/app/src/main/res/menu/menu_test.xml" value="0.27447916666666666" />
       </map>
     </option>
   </component>

@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">Herbiwhore</string>
     <string name="herbiwhore">HERBIWHORE</string>
+    <string name="encyklopedie_bylinek">Encyklopedie bylinek</string>
+    <string name="kalend">Kalendář</string>
+    <string name="p_ehled_aktivit">Přehled aktivit</string>
+    <string name="mapa">Mapa</string>
 </resources>
